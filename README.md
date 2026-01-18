@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/5fee58ca-2ffa-45d4-8b4f-7537375e1980
 
 ### **1. Clone and Install**
 ```bash
-git clone [https://https://github.com/Gol0DRoger/AskDocs.git](https://github.com/Gol0DRoger/AskDocs)
+git clone https://github.com/Gol0DRoger/AskDocs.git
 cd AskDocs
 npm install
 ```
