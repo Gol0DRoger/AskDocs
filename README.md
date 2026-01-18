@@ -7,6 +7,11 @@
 # Working
 
 
+https://github.com/user-attachments/assets/5fee58ca-2ffa-45d4-8b4f-7537375e1980
+
+<img width="960" height="504" alt="pinecone" src="https://github.com/user-attachments/assets/e7eab3cc-246a-4050-8e8d-338c8ec72488" />
+
+
 ## 🚀 The AI Stack
 
 | Component | Technology | Role |
@@ -37,6 +42,7 @@
 
 ### **1. Clone and Install**
 ```bash
-git clone [https://github.com/rishabh106/AskDocs.git](https://github.com/rishabh106/AskDocs.git)
+git clone [https://https://github.com/Gol0DRoger/AskDocs.git]()
 cd AskDocs
 npm install
+```
