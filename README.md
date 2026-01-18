@@ -1,4 +1,4 @@
-# 📄 AskDocs: AI-Powered Document Intelligence
+# AskDocs: AI-Powered Document Intelligence
 
 **AskDocs** is a high-performance Retrieval-Augmented Generation (RAG) system that allows users to chat with their PDF documents. By combining the speed of **Groq** with the precision of **Google Gemini Embeddings**, it transforms static text into an interactive knowledge base.
 
