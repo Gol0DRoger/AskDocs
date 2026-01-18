@@ -42,7 +42,15 @@ https://github.com/user-attachments/assets/5fee58ca-2ffa-45d4-8b4f-7537375e1980
 
 ### **1. Clone and Install**
 ```bash
-git clone [https://https://github.com/Gol0DRoger/AskDocs.git]()
+git clone [https://https://github.com/Gol0DRoger/AskDocs.git](https://github.com/Gol0DRoger/AskDocs)
 cd AskDocs
 npm install
 ```
+
+### **2. Create .env file with reference from .env.example**
+
+### **3. Run the project in backend directory**
+```
+npm start
+```
+Access the system at http://localhost:3000
