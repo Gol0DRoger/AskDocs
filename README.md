@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/5fee58ca-2ffa-45d4-8b4f-7537375e1980
 <img width="960" height="504" alt="pinecone" src="https://github.com/user-attachments/assets/e7eab3cc-246a-4050-8e8d-338c8ec72488" />
 
 
-## 🚀 The AI Stack
+##  The AI Stack
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/5fee58ca-2ffa-45d4-8b4f-7537375e1980
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **Intelligent Chunking:** Utilizes `RecursiveCharacterTextSplitter` (850-character chunks) to maintain semantic context.
 * **Context-Aware Chat:** Rephrases user queries into standalone search terms for optimized vector matching.
@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/5fee58ca-2ffa-45d4-8b4f-7537375e1980
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### **Prerequisites**
 - Node.js installed on your machine.
